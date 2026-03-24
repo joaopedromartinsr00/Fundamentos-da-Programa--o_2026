@@ -9,4 +9,4 @@ print(f"O sabor escolhida da pizza é {pizza_sabor}, o tamanho é {pizza_tamanho
 # Promoções -> Estruturas condicionais.
 # Comprando qualquer pizza de qualuqer tamanho, sábado, o refri é gratuito.
 # Comprando uma pizza de calabresa de tamanho médio, em qualquer dia, o frete e o refri são gratuitos.
-# Comprando qualquer pizza de qualquer tamanho no domingo, o frete e o refri são gratuitos.
+# Comprando qualquer pizza de qualquer tamanho no domingo, o frete e o refri são gratuitos.+
